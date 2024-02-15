@@ -1,0 +1,2 @@
+ {"placeholder": "text_a"} {"soft":"It is "}  {"mask"}.
+ {"placeholder": "text_a"}  {"mask"} .

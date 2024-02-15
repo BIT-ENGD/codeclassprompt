@@ -1,0 +1,2 @@
+public void <w> To Source </w> ( <w> String Builder </w> sb ) { String dot = <str-literal> <str-literal> ; for ( int i = 0 ; i < Identifier . length ; i + + ) { sb . append ( dot + Identifier [ i ] ) ; dot = <str-literal> <str-literal> <str-literal> ; } }
+[0.0282514039427042,0.024638479575514793,0.02441450208425522,0.023612214252352715,0.029816308990120888,0.0488319993019104,0.08405110985040665,0.11292702704668045,0.1649986058473587,0.20005834102630615,0.2584000527858734]

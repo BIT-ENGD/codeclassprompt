@@ -1,0 +1,2 @@
+Class DocumentVO{ PrintJobVO job; PrintRunVO run; String id; getters and setters.. } select {r.*},{d.*} from runs {r}, documents {d} where {r}.RUN_ID as {r.id} = d.RUN_ID as {d.run.id} run invalid user.table.column, table.column, or column specification 
+[4.937289486406371e-05,2.7461785066407174e-05,2.6674510081647895e-05,2.2775917386752553e-05,8.226575300795957e-05,0.0001401142217218876,0.00017754292639438063,0.0006969287642277777,0.0038699288852512836,0.12592697143554688,0.8689799904823303]
